@@ -1,4 +1,4 @@
-# 1st-repos
+# how to play
 
 
 
