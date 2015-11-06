@@ -1,4 +1,4 @@
-# how to play
+# this is a batch game
 
 
 
