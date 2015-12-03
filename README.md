@@ -1,4 +1,4 @@
-# this is a batch game
+# this is a batch code
 
 
 
